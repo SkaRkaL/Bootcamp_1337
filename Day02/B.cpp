@@ -5,6 +5,7 @@ using namespace std;
 
 typedef unsigned long long ull;
 
+
 ull fastPow(ull A, ull b, ull mod)
 {
     A %= MOD;
